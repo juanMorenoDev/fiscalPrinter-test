@@ -1,0 +1,15 @@
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\bin\Debug\epsonFiscalTest.exe.config
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\bin\Debug\epsonFiscalTest.exe
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\bin\Debug\epsonFiscalTest.pdb
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\bin\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\bin\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\Interop.EPSON_Impresora_Fiscal.dll
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\AxInterop.EPSON_Impresora_Fiscal.dll
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.csproj.ResolveComReference.cache
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.Form1.resources
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.Properties.Resources.resources
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.exe
+C:\Users\Juan\source\repos\epsonFiscalTest\epsonFiscalTest\obj\Debug\epsonFiscalTest.pdb
